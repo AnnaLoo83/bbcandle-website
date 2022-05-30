@@ -98,6 +98,7 @@ hr{
     padding: 0 7px;
     cursor: pointer;
     transition: 0.3s ease;
+    color: #000;
 }
 
 #bar{
